@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AryaKusumaaa/app/src/main/res/layout/activity_daftar_hewan.xml" value="0.253125" />
+        <entry key="..\:/AryaKusumaaa/app/src/main/res/layout/activity_main.xml" value="0.253125" />
+        <entry key="..\:/AryaKusumaaa/app/src/main/res/layout/activity_main2.xml" value="0.253125" />
+        <entry key="..\:/AryaKusumaaa/app/src/main/res/layout/activity_profil_ras.xml" value="0.253125" />
+        <entry key="..\:/AryaKusumaaa/app/src/main/res/layout/row_daftar_hewan.xml" value="0.253125" />
+        <entry key="..\:/AryaKusumaaa/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.26927083333333335" />
+        <entry key="..\:/AryaKusumaaa/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.26927083333333335" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/kucing-anjing-pedia-listview-main/app/src/main/res/layout/activity_daftar_hewan.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/kucing-anjing-pedia-listview-main/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/kucing-anjing-pedia-listview-main/app/src/main/res/layout/activity_profil_ras.xml" value="0.12409420289855072" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/kucing-anjing-pedia-listview-main/app/src/main/res/layout/row_daftar_hewan.xml" value="0.20416666666666666" />
+        <entry key="..\:/putra jayadi_Tugas 3/app/src/main/res/layout/activity_daftar_hewan.xml" value="0.16576086956521738" />
+        <entry key="..\:/putra jayadi_Tugas 3/app/src/main/res/layout/activity_main.xml" value="0.16576086956521738" />
+        <entry key="..\:/putra jayadi_Tugas 3/app/src/main/res/layout/activity_profil_ras.xml" value="0.16576086956521738" />
+        <entry key="..\:/putra jayadi_Tugas 3/app/src/main/res/layout/row_daftar_hewan.xml" value="0.13297872340425532" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
