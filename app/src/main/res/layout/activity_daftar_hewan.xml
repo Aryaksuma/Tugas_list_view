@@ -8,7 +8,9 @@
     android:orientation="vertical"
     android:gravity="center"
     android:padding="24dp"
+    android:background="@drawable/bg"
     tools:context=".DaftarHewanActivity">
+
 
     <TextView
         android:id="@+id/text_title_daftar"
